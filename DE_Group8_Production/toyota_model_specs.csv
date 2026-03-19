@@ -1,0 +1,53 @@
+model,platform,platform_group,mpg_combined,mpge_combined,ev_range_miles,horsepower,seating,cargo_cuft,towing_lbs,num_trims,generation_year,is_new_gen
+Corolla,TNGA-C,Compact,34,0,0,169,5,13.1,0,5,2019,0
+Corolla Hybrid,TNGA-C,Compact,52,0,0,134,5,13.1,0,3,2023,0
+Camry,TNGA-K,Midsize,52,0,0,225,5,15.1,0,6,2024,1
+Prius,TNGA-C,Compact,57,0,0,196,5,20.3,0,3,2023,1
+Prius Prime,TNGA-C,Compact,52,127,44,220,5,20.0,0,3,2023,1
+Crown,TNGA-K,Midsize,38,0,0,236,5,13.7,0,3,2023,1
+Crown Signia,TNGA-K,Midsize,37,0,0,243,5,25.5,0,2,2024,1
+GR86,Subaru-ZN8,Sports,24,0,0,228,4,6.9,0,3,2022,1
+Supra,BMW-G29,Sports,29,0,0,382,2,10.2,0,3,2020,1
+Mirai,FCEV,Sedan,76,0,402,182,5,8.5,0,2,2021,0
+BZ4X,e-TNGA,BEV,0,119,252,201,5,27.7,0,3,2023,0
+RAV4,TNGA-K,Compact SUV,30,0,0,203,5,37.5,3500,5,2019,0
+RAV4 Hybrid,TNGA-K,Compact SUV,39,0,0,219,5,37.5,3500,4,2019,0
+RAV4 PHEV,TNGA-K,Compact SUV,38,94,42,302,5,33.5,2500,2,2021,0
+Corolla Cross,TNGA-C,Compact SUV,32,0,0,169,5,20.7,0,4,2022,0
+Corolla Cross Hybrid,TNGA-C,Compact SUV,42,0,0,197,5,17.5,0,2,2023,0
+Venza,TNGA-K,Midsize SUV,37,0,0,219,5,28.8,2000,3,2021,0
+Highlander,TNGA-K,Midsize SUV,24,0,0,265,8,16.0,5000,5,2020,0
+Highlander Hybrid,TNGA-K,Midsize SUV,36,0,0,243,8,16.0,3500,4,2020,0
+Grand Highlander,TNGA-K,Large SUV,23,0,0,265,8,20.1,5000,4,2023,1
+Grand Highlander Hybrid,TNGA-K,Large SUV,35,0,0,362,8,20.1,5000,3,2023,1
+4Runner,TNGA-F,Body-on-Frame SUV,22,0,0,278,5,32.4,6000,6,2025,1
+4Runner Hybrid,TNGA-F,Body-on-Frame SUV,30,0,0,326,5,32.4,6000,2,2025,1
+Sequoia,TNGA-F,Full-size SUV,22,0,0,437,8,18.9,9000,4,2022,1
+Land Cruiser,TNGA-F,Body-on-Frame SUV,24,0,0,326,5,22.1,8000,3,2024,1
+Sienna,TNGA-K,Minivan,36,0,0,245,8,25.1,3500,5,2021,1
+Tacoma,TNGA-F,Midsize Truck,23,0,0,278,5,0,6500,6,2024,1
+Tacoma Hybrid,TNGA-F,Midsize Truck,24,0,0,326,5,0,6500,3,2024,1
+Tundra,TNGA-F,Full-size Truck,20,0,0,389,5,0,12000,6,2022,1
+Tundra Hybrid,TNGA-F,Full-size Truck,22,0,0,437,5,0,12000,3,2022,1
+IS,TNGA-L,Compact Luxury Sedan,24,0,0,241,5,10.8,0,4,2021,0
+RC,TNGA-L,Luxury Coupe,21,0,0,241,4,9.8,0,2,2015,0
+ES,TNGA-K,Midsize Luxury Sedan,28,0,0,203,5,16.7,0,4,2019,0
+ES Hybrid,TNGA-K,Midsize Luxury Sedan,44,0,0,215,5,13.1,0,3,2019,0
+LS,TNGA-L,Full-size Luxury Sedan,19,0,0,415,5,16.9,0,3,2018,0
+LS Hybrid,TNGA-L,Full-size Luxury Sedan,25,0,0,354,5,14.4,0,2,2018,0
+LC,TNGA-L,Luxury GT,19,0,0,471,4,5.9,0,2,2017,0
+LC Hybrid,TNGA-L,Luxury GT,26,0,0,354,4,5.9,0,1,2017,0
+UX Hybrid,TNGA-C,Subcompact Luxury SUV,39,0,0,181,5,17.1,0,3,2019,0
+NX,TNGA-K,Compact Luxury SUV,26,0,0,203,5,22.7,0,3,2022,1
+NX Hybrid,TNGA-K,Compact Luxury SUV,36,0,0,239,5,22.7,0,3,2022,1
+NX PHEV,TNGA-K,Compact Luxury SUV,36,84,37,302,5,14.5,0,2,2022,1
+RZ,e-TNGA,Luxury BEV SUV,0,119,220,308,5,29.6,0,2,2023,1
+RX,TNGA-K,Midsize Luxury SUV,24,0,0,275,5,18.4,0,4,2023,1
+RX Hybrid,TNGA-K,Midsize Luxury SUV,37,0,0,246,5,18.4,0,3,2023,1
+RX PHEV,TNGA-K,Midsize Luxury SUV,34,76,37,309,5,14.4,0,2,2023,1
+TX,TNGA-K,3-Row Luxury SUV,24,0,0,275,7,25.4,0,3,2024,1
+TX Hybrid,TNGA-K,3-Row Luxury SUV,30,0,0,366,7,25.4,0,2,2024,1
+TX PHEV,TNGA-K,3-Row Luxury SUV,30,62,33,366,7,22.0,0,1,2024,1
+GX,GA-L,Body-on-Frame Luxury SUV,20,0,0,349,7,10.3,7700,4,2024,1
+LX,GA-L,Full-size Luxury SUV,17,0,0,409,7,22.0,7000,3,2022,0
+LX Hybrid,GA-L,Full-size Luxury SUV,20,0,0,400,7,22.0,7000,2,2024,1
