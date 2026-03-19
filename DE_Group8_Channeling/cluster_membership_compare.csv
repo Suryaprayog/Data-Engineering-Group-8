@@ -1,0 +1,52 @@
+State,cluster,cluster_reduced
+Alabama,1,0
+Alaska,1,0
+Arizona,2,1
+Arkansas,1,0
+California,2,1
+Colorado,2,1
+Connecticut,2,1
+Delaware,1,0
+District of Columbia,3,2
+Florida,2,1
+Georgia,2,1
+Hawaii,2,1
+Idaho,1,0
+Illinois,2,1
+Indiana,1,0
+Iowa,1,0
+Kansas,1,0
+Kentucky,1,0
+Louisiana,1,0
+Maine,0,3
+Maryland,2,1
+Massachusetts,2,1
+Michigan,1,0
+Minnesota,1,0
+Mississippi,4,4
+Missouri,1,0
+Montana,1,0
+Nebraska,1,0
+Nevada,2,1
+New Hampshire,1,0
+New Jersey,2,1
+New Mexico,1,0
+New York,2,1
+North Carolina,1,0
+North Dakota,4,4
+Ohio,1,0
+Oklahoma,1,0
+Oregon,2,1
+Pennsylvania,1,0
+Rhode Island,1,0
+South Carolina,1,0
+South Dakota,4,4
+Tennessee,1,0
+Texas,2,1
+Utah,2,1
+Vermont,0,3
+Virginia,2,1
+Washington,2,1
+West Virginia,4,4
+Wisconsin,1,0
+Wyoming,4,4

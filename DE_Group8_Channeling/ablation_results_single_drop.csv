@@ -1,0 +1,13 @@
+dropped_feature,n_features,silhouette,inertia
+Mean households income,11,0.2923,215.3605
+ports_per_station,11,0.2898,205.8266
+Mean travel time to work,11,0.2878,216.7161
+Population Density,11,0.2636,221.363
+log1p_Population,11,0.2539,214.8632
+log1p_Registration Count,11,0.2458,226.7052
+URBAN POP_PCT,11,0.2407,227.5998
+ports_per_1k_reg,11,0.2402,226.8153
+ports_per_100k,11,0.2378,222.7519
+registrations_per_1k_pop,11,0.2241,227.3214
+stations_per_1k_reg,11,0.2163,230.2728
+stations_per_100k,11,0.1912,219.8962

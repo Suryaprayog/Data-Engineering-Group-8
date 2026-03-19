@@ -1,0 +1,5 @@
+feature_set,n_features,silhouette,inertia
+Full feature set,12,0.2751,244.9212
+Without Mean travel time to work,11,0.2878,216.7161
+Without ports_per_station,11,0.2898,205.8266
+Without Population Density,11,0.2636,221.363
